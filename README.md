@@ -61,9 +61,9 @@ consultorio1.buscarPaciente("ToBBy");
 ```
 ## Instalación y Ejecución
 
-1- Clona el repositorio o descarga el archivo.
-2- Abre el archivo index.html en tu navegador (si estás integrando este código en una página web).
-3- Abre la consola de tu navegador para ver los resultados.
+1 -Clona el repositorio o descarga el archivo.
+2 -Abre el archivo index.html en tu navegador (si estás integrando este código en una página web).
+3 -Abre la consola de tu navegador para ver los resultados.
 
 
 ## Notas
